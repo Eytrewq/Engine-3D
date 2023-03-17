@@ -1,0 +1,2 @@
+﻿  IMG_png.c
+C:\Users\eoyz1\Downloads\SDL_image-main\SDL_image-main\IMG_png.c(24,10): fatal error C1083: Impossible d'ouvrir le fichier include : 'SDL3/SDL_image.h' : No such file or directory

@@ -1,0 +1,4 @@
+﻿  Program.cpp
+C:\Users\eoyz1\source\repos\newton\newton\source\Program.cpp(643,30): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\eoyz1\source\repos\newton\newton\source\Program.cpp(643,54): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  newton.vcxproj -> C:\Users\eoyz1\source\repos\newton\x64\Debug\newton.exe
